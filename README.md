@@ -28,5 +28,7 @@ Phoenix-RTOS philosophy, architecture and internals are described in [phoenix-rt
 Phoenix-RTOS website: [phoenix-rtos.com](https://phoenix-rtos.com).
 
 
-git clone test
+git clone test -> passed
+
+git build test
 
